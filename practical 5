@@ -1,0 +1,4 @@
+a=B
+b=5
+PRINT(a+b)
+print("thank you")
